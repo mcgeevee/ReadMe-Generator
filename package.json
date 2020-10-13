@@ -1,7 +1,7 @@
 {
   "name": "static-site",
   "version": "1.0.0",
-  "description": "",
+  "description": "## Description This challenge involved creating a README generator that runs from the command line. It asks the user to enter a project title, a description, installation instructions, usage information, contribution guidelines, test instructions, license information, their GitHub username, and their email address.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,5 +10,14 @@
   "license": "ISC",
   "dependencies": {
     "inquirer": "^6.5.2"
-  }
+},
+"devDependencies": {},
+"repository": {
+  "type": "git",
+  "url": "git+https://github.com/mcgeevee/ReadMe-Generator.git"
+},
+"bugs": {
+  "url": "https://github.com/mcgeevee/ReadMe-Generator/issues"
+},
+"homepage": "https://github.com/mcgeevee/ReadMe-Generator#readme"
 }
