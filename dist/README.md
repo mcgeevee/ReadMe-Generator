@@ -3,7 +3,7 @@
 ![mit](https://img.shields.io/badge/license-MIT%20License-red)
     
 ## Description
-This application will generate a password based on criteria selected by the user.
+This application will generate a password based on criteria selected by the user
 ## Table of Contents
 * [Description](#description)
 * [Installation](#installation)
@@ -13,17 +13,17 @@ This application will generate a password based on criteria selected by the user
 * [Tests](#tests)
 * [Questions](#questions)
 ## Installation
-This application is hosted on GitHub and can be run from there. It does not need to be installed.
+This application is hosted on Github and can be run from there. It does not need to be installed. 
 ## Usage
-This application can be used to generate a password between 8 and 128 characters, applying other criteria if wanted.
+This application can be used to generate a password between 8 to 128 characters, applying other criteria if wanted.
 ## License
 
-This application is covered by the MIT License, the terms of which can be found [here](https://opensource.org/licenses/MIT).
+This application is covered by the MIT License, the terms of which can be found [here](https://choosealicense.com/licenses/mit/#).
     
 ## Contributing
-Anyone can contribute to this application by downloading the source code.
+Anyone can contribute to this application by downloading the source code. 
 ## Tests
-In order to test this application, try the different criteria that appear, letting you choose various different combinations of passwords.
+In order to test this application, try different criteria that appear, letting you choose various different combinations of passwords. 
 ## Questions
 [GitHub Profile](https://github.com/mcgeevee/)  
 
