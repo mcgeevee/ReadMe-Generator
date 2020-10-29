@@ -5,7 +5,7 @@ This challenge involved creating a README generator that runs from the command l
 
 
 ## Walkthrough Video
-Please access the link [here](https://drive.google.com/file/d/13Li42wUM6Pvu3iwNyPPbZPCfr0AR7x4X/view?usp=sharing) to watch the walkthrough video.
+Please access the link provided [here](https://drive.google.com/file/d/13Li42wUM6Pvu3iwNyPPbZPCfr0AR7x4X/view?usp=sharing) to watch the walkthrough video.
 
 ## License
 <p><a href="https://choosealicense.com/licenses/mit/#">MIT</a> License</p>
